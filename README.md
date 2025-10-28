@@ -1,5 +1,5 @@
 # clear-orbit 
-ClearOrbit - Digital Agency Landing Page\
+ClearOrbit - Digital Agency Landing Page
 
 #Technology Stack:
 
